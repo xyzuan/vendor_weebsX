@@ -21,4 +21,5 @@ PRODUCT_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
 PRODUCT_PACKAGES += \
-    wellbeingconf
+    wellbeingconf \
+	googleconf
